@@ -2,7 +2,6 @@
 categories = []
 date = 2021-11-30T17:30:00Z
 description = ""
-draft = true
 image = ""
 tags = []
 title = "Terms & Conditions"
