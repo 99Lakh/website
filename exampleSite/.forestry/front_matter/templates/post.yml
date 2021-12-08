@@ -25,3 +25,4 @@ fields:
   label: type
 pages:
 - exampleSite/content/blog/privacy-policy.md
+- exampleSite/content/blog/terms-conditions.md
