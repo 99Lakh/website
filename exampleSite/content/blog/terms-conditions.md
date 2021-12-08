@@ -7,6 +7,9 @@ image = ""
 tags = []
 title = "Terms & Conditions"
 type = ""
+[menu.main]
+name = "T&C"
+weight = 5
 
 +++
 **Terms & Conditions**
