@@ -17,7 +17,7 @@ By downloading or using the app, these terms will automatically apply to you –
 
 99 Lakh Company Limited is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.
 
-The AAAAA app stores and processes personal data that you have provided to us, to provide our Service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the AAAAA app won’t work properly or at all.
+This app stores and processes personal data that you have provided to us, to provide our Service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that this app won’t work properly or at all.
 
 The app does use third-party services that declare their Terms and Conditions.
 
@@ -48,4 +48,4 @@ These terms and conditions are effective as of 2021-12-01
 
 **Contact Us**
 
-If you have any questions or suggestions about our Terms and Conditions, do not hesitate to contact us at contact@99lakh.com.
+If you have any questions or suggestions about our Terms and Conditions, do not hesitate to contact us at contact(at)99lakh.com.
