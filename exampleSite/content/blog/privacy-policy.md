@@ -6,6 +6,8 @@ image = ""
 tags = []
 title = "Privacy Policy"
 type = ""
+[menu.main]
+weight = 4
 
 +++
 **Privacy Policy**
