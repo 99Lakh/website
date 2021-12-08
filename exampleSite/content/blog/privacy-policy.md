@@ -76,4 +76,4 @@ This policy is effective as of 2021-12-01
 
 **Contact Us**
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at contact@99lakh.com.
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at contact(at)99lakh.com.
