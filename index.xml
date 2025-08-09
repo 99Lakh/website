@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Home on 99 Lakh Studios</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Home on 99 Lakh Studios</description>
+    <title>99 Lakh Studios</title>
+    <link>https://99lakh.com/</link>
+    <description>Recent content on 99 Lakh Studios</description>
     <generator>Hugo -- 0.148.2</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://99lakh.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Our Products</title>
-      <link>http://localhost:1313/products/</link>
+      <link>https://99lakh.com/products/</link>
       <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/</guid>
+      <guid>https://99lakh.com/products/</guid>
       <description>&lt;h2 id=&#34;-our-products&#34;&gt;🛍 Our Products&lt;/h2&gt;
 &lt;p&gt;We offer high-quality items that combine great design with everyday usability. Below is a selection of our current products.&lt;/p&gt;
 &lt;hr&gt;
@@ -30,9 +30,9 @@
     </item>
     <item>
       <title>Privacy Policy</title>
-      <link>http://localhost:1313/privacy-policy/</link>
+      <link>https://99lakh.com/privacy-policy/</link>
       <pubDate>Fri, 08 Aug 2025 12:00:00 +0630</pubDate>
-      <guid>http://localhost:1313/privacy-policy/</guid>
+      <guid>https://99lakh.com/privacy-policy/</guid>
       <description>&lt;h1 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;99 Lakh Studios&lt;/strong&gt; built these apps &lt;strong&gt;(99 Match, Ijome)&lt;/strong&gt; as a &lt;strong&gt;Freemium&lt;/strong&gt; app. This service is provided by 99 Lakh Studios at no cost and is intended for use &lt;em&gt;as is&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;This page informs visitors of our policies regarding the collection, use, and disclosure of personal information for anyone who chooses to use our Service.&lt;/p&gt;
@@ -40,9 +40,9 @@
     </item>
     <item>
       <title>Terms &amp; Conditions</title>
-      <link>http://localhost:1313/terms-conditions/</link>
+      <link>https://99lakh.com/terms-conditions/</link>
       <pubDate>Fri, 08 Aug 2025 12:00:00 +0630</pubDate>
-      <guid>http://localhost:1313/terms-conditions/</guid>
+      <guid>https://99lakh.com/terms-conditions/</guid>
       <description>&lt;h2 id=&#34;terms--conditions&#34;&gt;Terms &amp;amp; Conditions&lt;/h2&gt;
 &lt;p&gt;By downloading or using this app, you agree to the following terms. Please read them carefully before use.&lt;/p&gt;
 &lt;h3 id=&#34;usage-restrictions&#34;&gt;Usage Restrictions&lt;/h3&gt;
