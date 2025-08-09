@@ -1,58 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>99 Lakh Studios</title>
-    <link>https://99lakh.com/</link>
-    <description>Recent content on 99 Lakh Studios</description>
-    <generator>Hugo -- 0.148.2</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 09 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://99lakh.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Our Products</title>
-      <link>https://99lakh.com/products/</link>
-      <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://99lakh.com/products/</guid>
-      <description>&lt;h2 id=&#34;-our-products&#34;&gt;🛍 Our Products&lt;/h2&gt;
-&lt;p&gt;We offer high-quality items that combine great design with everyday usability. Below is a selection of our current products.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;-smart-noise-cancelling-headphones&#34;&gt;🎧 Smart Noise-Cancelling Headphones&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Price:&lt;/strong&gt; $199&lt;br&gt;
-&lt;strong&gt;Description:&lt;/strong&gt; Experience crystal-clear sound with active noise cancellation, up to 30 hours battery life, and sleek, comfortable ear cups.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;-luxury-fountain-pen&#34;&gt;🖋 Luxury Fountain Pen&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Price:&lt;/strong&gt; $45&lt;br&gt;
-&lt;strong&gt;Description:&lt;/strong&gt; Elegant brass body with fine nib for smooth writing. Perfect for journaling, signing, or gifting.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;-portable-coffee-maker&#34;&gt;☕ Portable Coffee Maker&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Price:&lt;/strong&gt; $79&lt;br&gt;
-&lt;strong&gt;Description:&lt;/strong&gt; Brew barista-quality coffee anywhere. Compact, durable, and easy to clean.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Privacy Policy</title>
-      <link>https://99lakh.com/privacy-policy/</link>
-      <pubDate>Fri, 08 Aug 2025 12:00:00 +0630</pubDate>
-      <guid>https://99lakh.com/privacy-policy/</guid>
-      <description>&lt;h1 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;99 Lakh Studios&lt;/strong&gt; built these apps &lt;strong&gt;(99 Match, Ijome)&lt;/strong&gt; as a &lt;strong&gt;Freemium&lt;/strong&gt; app. This service is provided by 99 Lakh Studios at no cost and is intended for use &lt;em&gt;as is&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;This page informs visitors of our policies regarding the collection, use, and disclosure of personal information for anyone who chooses to use our Service.&lt;/p&gt;
-&lt;p&gt;By using our Service, you agree to the collection and use of information in accordance with this policy. Personal information we collect is used to provide and improve the Service. We will not share your information with anyone except as described here.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Terms &amp; Conditions</title>
-      <link>https://99lakh.com/terms-conditions/</link>
-      <pubDate>Fri, 08 Aug 2025 12:00:00 +0630</pubDate>
-      <guid>https://99lakh.com/terms-conditions/</guid>
-      <description>&lt;h2 id=&#34;terms--conditions&#34;&gt;Terms &amp;amp; Conditions&lt;/h2&gt;
-&lt;p&gt;By downloading or using this app, you agree to the following terms. Please read them carefully before use.&lt;/p&gt;
-&lt;h3 id=&#34;usage-restrictions&#34;&gt;Usage Restrictions&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Do not copy, modify, or alter the app or our trademarks.&lt;/li&gt;
-&lt;li&gt;Do not attempt to extract the app’s source code, translate it, or create derivative works.&lt;/li&gt;
-&lt;li&gt;All rights, including trademarks, copyright, and database rights, remain the property of &lt;strong&gt;99 Lakh Company Limited&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;changes--charges&#34;&gt;Changes &amp;amp; Charges&lt;/h3&gt;
-&lt;p&gt;We aim to keep the app useful and efficient. We may:&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>99 Lakh Studios</title><link>https://99lakh.com/</link><description>Recent content on 99 Lakh Studios</description><generator>Hugo -- 0.148.2</generator><language>en-us</language><lastBuildDate>Sat, 09 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://99lakh.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Our Products</title><link>https://99lakh.com/products/</link><pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate><guid>https://99lakh.com/products/</guid><description>&lt;h2 id="-our-products">🛍 Our Products&lt;/h2>
+&lt;p>We offer high-quality items that combine great design with everyday usability. Below is a selection of our current products.&lt;/p>
+&lt;hr>
+&lt;h3 id="-smart-noise-cancelling-headphones">🎧 Smart Noise-Cancelling Headphones&lt;/h3>
+&lt;p>&lt;strong>Price:&lt;/strong> $199&lt;br>
+&lt;strong>Description:&lt;/strong> Experience crystal-clear sound with active noise cancellation, up to 30 hours battery life, and sleek, comfortable ear cups.&lt;/p>
+&lt;hr>
+&lt;h3 id="-luxury-fountain-pen">🖋 Luxury Fountain Pen&lt;/h3>
+&lt;p>&lt;strong>Price:&lt;/strong> $45&lt;br>
+&lt;strong>Description:&lt;/strong> Elegant brass body with fine nib for smooth writing. Perfect for journaling, signing, or gifting.&lt;/p>
+&lt;hr>
+&lt;h3 id="-portable-coffee-maker">☕ Portable Coffee Maker&lt;/h3>
+&lt;p>&lt;strong>Price:&lt;/strong> $79&lt;br>
+&lt;strong>Description:&lt;/strong> Brew barista-quality coffee anywhere. Compact, durable, and easy to clean.&lt;/p></description></item><item><title>Privacy Policy</title><link>https://99lakh.com/privacy-policy/</link><pubDate>Fri, 08 Aug 2025 12:00:00 +0630</pubDate><guid>https://99lakh.com/privacy-policy/</guid><description>&lt;h1 id="privacy-policy">Privacy Policy&lt;/h1>
+&lt;p>&lt;strong>99 Lakh Studios&lt;/strong> built these apps &lt;strong>(99 Match, Ijome)&lt;/strong> as a &lt;strong>Freemium&lt;/strong> app. This service is provided by 99 Lakh Studios at no cost and is intended for use &lt;em>as is&lt;/em>.&lt;/p>
+&lt;p>This page informs visitors of our policies regarding the collection, use, and disclosure of personal information for anyone who chooses to use our Service.&lt;/p>
+&lt;p>By using our Service, you agree to the collection and use of information in accordance with this policy. Personal information we collect is used to provide and improve the Service. We will not share your information with anyone except as described here.&lt;/p></description></item><item><title>Terms &amp; Conditions</title><link>https://99lakh.com/terms-conditions/</link><pubDate>Fri, 08 Aug 2025 12:00:00 +0630</pubDate><guid>https://99lakh.com/terms-conditions/</guid><description>&lt;h2 id="terms--conditions">Terms &amp;amp; Conditions&lt;/h2>
+&lt;p>By downloading or using this app, you agree to the following terms. Please read them carefully before use.&lt;/p>
+&lt;h3 id="usage-restrictions">Usage Restrictions&lt;/h3>
+&lt;ul>
+&lt;li>Do not copy, modify, or alter the app or our trademarks.&lt;/li>
+&lt;li>Do not attempt to extract the app’s source code, translate it, or create derivative works.&lt;/li>
+&lt;li>All rights, including trademarks, copyright, and database rights, remain the property of &lt;strong>99 Lakh Company Limited&lt;/strong>.&lt;/li>
+&lt;/ul>
+&lt;h3 id="changes--charges">Changes &amp;amp; Charges&lt;/h3>
+&lt;p>We aim to keep the app useful and efficient. We may:&lt;/p></description></item></channel></rss>
